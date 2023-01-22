@@ -1,0 +1,86 @@
+[
+    {
+    "title": "Mix Embroided Suit",
+    "summary": "",
+    "price": 1999,
+    "rating": 0,
+    "images": [
+      {
+        "public_id": "sample_id",
+        "url": "https://cdn.shopify.com/s/files/1/0464/1731/3955/files/DUSKY_NUT_-3_PC_SDWT223P01_a47f33c3-f079-4cea-8a28-198c04e561e9_475x.jpg?v=1670236238"
+      }
+    ],
+    "category": "category 1",
+    "stock": 1
+  },
+  {
+    "title": "Black Kurti",
+    "summary": "",
+    "price": 2999,
+    "rating": 0,
+    "images": [
+      {
+        "public_id": "sample_id",
+        "url": "https://cdn.shopify.com/s/files/1/0464/1731/3955/files/SCWO223P14-BLACKB_380x_3194bdd8-0e71-49c8-8aef-d29837e1b8ca_475x.jpg?v=1670066979"
+      }
+    ],
+    "category": "category 1",
+    "stock": 1
+  },
+  {
+    "title": "Red 2 piece Suit",
+    "summary": "",
+    "price": 1800,
+    "rating": 0,
+    "images": [
+      {
+        "public_id": "sample_id",
+        "url": "https://cdn.shopify.com/s/files/1/0464/1731/3955/files/NA_Womens_Nav_Image-min_475x.jpg?v=1667813840"
+      }
+    ],
+    "category": "category 1",
+    "stock": 1
+  },
+  {
+    "title": "Mahroon Suit",
+    "summary": "",
+    "price": 1899,
+    "rating": 0,
+    "images": [
+      {
+        "public_id": "sample_id",
+        "url": "https://cdn.shopify.com/s/files/1/0464/1731/3955/files/anmol_image_380x.jpg?v=1671171792"
+      }
+    ],
+    "category": "category 1",
+    "stock": 1
+  },
+  {
+    "title": "Red Suit",
+    "summary": "",
+    "price": 2000,
+    "rating": 0,
+    "images": [
+      {
+        "public_id": "sample_id",
+        "url": "https://cdn.shopify.com/s/files/1/0464/1731/3955/files/Nazakat_de8b6cf3-ac3f-465e-8c69-ba512cd45ff1_380x.jpg?v=1671171353"
+      }
+    ],
+    "category": "category 1",
+    "stock": 1
+  },
+  {
+    "title": "Peech Suit",
+    "summary": "",
+    "price": 2000,
+    "rating": 0,
+    "images": [
+      {
+        "public_id": "sample_id",
+        "url": "https://cdn.shopify.com/s/files/1/0464/1731/3955/files/Chamak_dhamak_380x.jpg?v=1672377342"
+      }
+    ],
+    "category": "category 1",
+    "stock": 1
+  }
+]
